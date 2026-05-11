@@ -1,0 +1,21 @@
+# Môi trường ảo
+.venv/
+venv/
+ENV/
+
+# file tmj của python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# File cấu hình cá nhân hoặc biến môi trường
+.ENV
+
+# Thư mục phân phối và xây dụng
+dist/
+build/
+*.egg-info/
+
+# Ảnh
+*.jpg
+*.png
